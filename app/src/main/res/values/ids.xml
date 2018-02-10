@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editText_password" type="id" />
+    <item name="textView_attempt" type="id" />
+    <item name="button_login" type="id" />
+    <item name="editText_user" type="id" />
+</resources>
